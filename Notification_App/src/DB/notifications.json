@@ -1,0 +1,22 @@
+{
+  "notifications": [
+    {
+      "id": "MoWkMU3U7BU0D0_eGKl6a",
+      "time": "2023/04/19 23:28:06",
+      "checked": false,
+      "name": "rocket",
+      "content": "launched a rocket for your post",
+      "from": "A user",
+      "to": "You"
+    },
+    {
+      "id": "4gzPVNNG9jVNjLO83uh-k",
+      "time": "2023/04/19 23:28:10",
+      "checked": true,
+      "from": "A user",
+      "to": "You",
+      "name": "chat",
+      "content": "wants to chat with"
+    }
+  ]
+}

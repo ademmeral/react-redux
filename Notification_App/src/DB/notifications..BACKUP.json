@@ -1,0 +1,67 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "name": "thumbUp",
+      "content": "gave your post the thumbs up",
+      "from": "A user",
+      "to": "You",
+      "time": "2023/04/14 03:04:14",
+      "checked" : false
+    },
+    {
+      "id": 2,
+      "name": "follow",
+      "content": "follows you",
+      "from": "A user",
+      "to": "You",
+      "time": "2023/04/14 02:02:03",
+      "checked" : false
+    },
+    {
+      "id": 3,
+      "name": "heart",
+      "content": "liked your post",
+      "from": "A user",
+      "to": "You",
+      "time": "2023/04/14 02:07:20",
+      "checked" : false
+    },
+    {
+      "id": 4,
+      "name": "rocket",
+      "content": "launched a rocket for your post",
+      "from": "A user",
+      "to": "You",
+      "time": "2023/04/14 03:09:04",
+      "checked" : false
+    },
+    {
+      "id": 5,
+      "name": "hooray",
+      "content": "celebrated your post",
+      "from": "A user",
+      "to": "You",
+      "time": "2023/04/14 02:09:17",
+      "checked" : false
+    },
+    {
+      "id": 6,
+      "name": "eyes",
+      "content": "watches your post",
+      "from": "A user",
+      "to": "You",
+      "time": "2023/04/14 03:04:15",
+      "checked" : false
+    },
+    {
+      "id": 7,
+      "name": "chat",
+      "content": "wants to chat with you",
+      "from": "A user",
+      "to": "You",
+      "time": "2023/04/14 03:01:08",
+      "checked" : false
+    }
+  ]
+}
